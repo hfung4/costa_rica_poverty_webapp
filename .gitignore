@@ -30,6 +30,7 @@
 # OS generated files #
 ######################
 *.DS_Store
+*.python-version
 ._*
 .Spotlight-V100
 .Trashes
